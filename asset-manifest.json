@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tesla.co.kr/static/css/main.ab2d8dee.css",
+    "main.js": "/tesla.co.kr/static/js/main.b3a795eb.js",
+    "index.html": "/tesla.co.kr/index.html",
+    "main.ab2d8dee.css.map": "/tesla.co.kr/static/css/main.ab2d8dee.css.map",
+    "main.b3a795eb.js.map": "/tesla.co.kr/static/js/main.b3a795eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab2d8dee.css",
+    "static/js/main.b3a795eb.js"
+  ]
+}
